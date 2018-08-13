@@ -1,5 +1,8 @@
 {
   "name": "server-side-ts-minimal-starter",
+  "scripts": {
+    "start": "ts-node src/app.ts"
+  },
   "devDependencies": {
     "prettier": "^1.14.2",
     "ts-node": "^7.0.1",
