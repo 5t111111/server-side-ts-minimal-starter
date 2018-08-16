@@ -1,6 +1,7 @@
-function hello(name: string): Boolean {
-  console.log(`Hello ${name}!`);
-  return true;
+function hello(name: string): boolean {
+  // tslint:disable-next-line:no-console
+  console.log(`Hello ${name}!`)
+  return true
 }
 
-hello("Tom");
+hello("Tom")
