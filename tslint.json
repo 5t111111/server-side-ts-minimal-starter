@@ -5,7 +5,9 @@
   "rulesDirectory": ["tslint-plugin-prettier"],
   "rules": {
     "prettier": true,
-    "ordered-imports": false,
-    "object-literal-sort-keys": false
+    "interface-name": false,
+    "interface-over-type-literal": false,
+    "object-literal-sort-keys": false,
+    "ordered-imports": false
   }
 }
