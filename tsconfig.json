@@ -7,9 +7,7 @@
       "dom"
     ],
     "strict": true,
-    "noImplicitAny": true,
     "noUnusedLocals": true,
-    "noUnusedParameters": false,
     "noImplicitReturns": true,
     "noFallthroughCasesInSwitch": true,
     "moduleResolution": "node",
